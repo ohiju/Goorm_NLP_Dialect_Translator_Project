@@ -1,1 +1,1 @@
-# NLP_Project-Dialect_Translator_Project
+# NLP_Dialect_Translator_Project
